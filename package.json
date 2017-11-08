@@ -1,7 +1,7 @@
 {
-  "name": "dummy_style_guide",
+  "name": "dummy-style-guide",
   "version": "1.0.0",
-  "description": "",
+  "description": "Example application of dash-of-style out of the box",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
