@@ -13,3 +13,19 @@ Viewing the Styleguide
 ----------------------
 
 Just open 'styleguide.html' in your browser.
+
+
+Developers working on dash-of-style
+-----------------------------------
+
+To include dash of style:
+
+1. Bring down the dash-of-style repo locally via git clone
+
+2. Make dash of style available as a linked repo
+
+    \dash-of-style$> npm link
+
+3. Link this repo to dash-of-style
+
+    \dummy-style-guide$>  npm link dash-of-style
